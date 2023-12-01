@@ -34,7 +34,7 @@ cat << EOB
     
     **********************************************
 
-        VulnLab by sharan
+        VulnLab by sharanraj
         https://github.com/raj/VulnLab
 
     **********************************************
