@@ -34,8 +34,8 @@ cat << EOB
     
     **********************************************
 
-        VulnLab by Yavuzlar
-        https://github.com/yavuzlar/VulnLab
+        VulnLab by sharan
+        https://github.com/raj/VulnLab
 
     **********************************************
 EOB
